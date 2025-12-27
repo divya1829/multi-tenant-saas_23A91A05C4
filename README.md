@@ -59,8 +59,8 @@ This project is fully **Dockerized** and production-ready, with automated databa
 
 Clone the repository:
 bash
-git clone https://github.com/Sravanipunnam/multi-tenant-saas.git
-cd multi-tenant-saas
+git clone https://github.com/divya1829/multi-tenant-saas_23A91A05C4.git
+cd multi-tenant-saas_23A91A05C4
 docker-compose up -d --build
 
 ### Application URLs
@@ -99,5 +99,5 @@ docker-compose up -d --build
 - **Audit Logging:**  
   Critical system actions such as tenant creation, project creation, and task updates are logged in an `audit_logs` table for traceability and security monitoring.
 
-### Sravani Punnam
+### Sai Divya
 ### Full-Stack Developer | Backend & System Design Enthusiast
